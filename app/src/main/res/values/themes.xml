@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema base de la ventana (los colores de la app se definen en Compose, en ui/theme) -->
+    <style name="Theme.EvaluacionApps_Grupo10" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
