@@ -10,15 +10,15 @@ Aplicación móvil Android para la **gestión y el seguimiento de solicitudes de
 
 | N° | Nombre completo | Rol principal en el desarrollo |
 |---|---|---|
-| 1 | [Nombre y apellidos del integrante 1] | Datos, lógica de negocio y lectura de QR |
-| 2 | [Nombre y apellidos del integrante 2] | Interfaz y navegación |
+| 1 | Jhon Vargas | Datos, lógica de negocio y lectura de QR |
+| 2 | Elena Veloso | Interfaz y navegación |
 
 | Dato | Información |
 |---|---|
-| Asignatura | [Nombre de la asignatura] (DSY1105, sección 005D) |
+| Asignatura | Desarrollo de Aplicaciones Moviles_005D |
 | Profesor(a) | [Nombre del profesor o profesora] |
 | Grupo | Grupo 10 |
-| Institución | [Nombre de la institución] |
+| Institución | Duoc Uc |
 
 ## Descripción del proyecto
 
